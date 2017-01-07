@@ -1,6 +1,6 @@
 //
 //  MemeEditorVC.swift
-//  [Demo] Shift a view 1
+
 //
 //  Created by admin on 12/5/16.
 //  Copyright © 2016 LEVUANHUYEN. All rights reserved.
